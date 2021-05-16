@@ -15,6 +15,6 @@ This is accmomplished by the running through following tasks as displayed below:
 
 - Clustering Cryptocurrencies Using K-Means:  Next we predict clusters using the cryptocurrencies data using the KMeans algorithm from sklearn.
 
-- Visualizing Results: In our first notebook clustering_crypto .ipnyb we are visualizing our data using the hvplot libary.
+- Visualizing Results: In our first notebook clustering_crypto .ipynb we are visualizing our data using the hvplot libary.
 
-- Finally we deploy the clustering_crypto .ipnyb  notebook to Amazon SageMaker and utilize altair to vizualize our data, this notebook is then saved as clustering_crypto_sm .ipnyb
+- Finally we deploy the clustering_crypto .ipnyb  notebook to Amazon SageMaker and utilize altair to vizualize our data, this notebook is then saved as clustering_crypto_sm .ipynb
